@@ -13,6 +13,10 @@ Kempegowda International Airport
 3. Travel straight on jayamahal road, take the next right towards 5th main road
 4. Go along the same road till 7th cross road
 5. Take left and go along bellary road, the destination is on the right near the bus stop
+- Cubbon Park 
+- Karnataka Vidhana Soudha
+- Lalbagh Botanical Garden
+
 
 
 
