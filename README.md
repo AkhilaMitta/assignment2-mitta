@@ -27,6 +27,12 @@ This is a table for the places to visit
 | San Francisco | Golden Gate Bridge | 30 Min|
 | Houston | Houston's Musuem District| 20 Min|
 _ _ _
+# Quotes
+>Be yourself; everyone else is already taken. ― Oscar Wilde
+
+>You only live once, but if you do it right, once is enough. ― Mae West
+_ _ _
+
 
 
 
