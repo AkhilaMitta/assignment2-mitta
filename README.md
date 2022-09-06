@@ -18,7 +18,7 @@ Kempegowda International Airport
 - Lalbagh Botanical Garden
 [myaboutfile](AboutMe.md)
 _ _ _
-# table for visiting places in the USA
+# Table for visiting places in the USA
 This is a table for the places to visit
 | Name of the city | Location to visit | Amount of time to spend |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ This is a table for the places to visit
 | San Francisco | Golden Gate Bridge | 30 Min|
 | Houston | Houston's Musuem District| 20 Min|
 _ _ _
- 
+
 
 
 
