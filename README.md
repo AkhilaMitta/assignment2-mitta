@@ -32,7 +32,13 @@ _ _ _
 
 >You only live once, but if you do it right, once is enough. ― Mae West
 _ _ _
-
+# code fencing
+> Get the current URL with JavaScript?
+[Stack overflow Question](https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript)
+```
+https://css-tricks.com/example/index.html?s=flexbox
+```
+[code snippet](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)
 
 
 
