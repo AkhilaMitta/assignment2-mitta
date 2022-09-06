@@ -17,6 +17,17 @@ Kempegowda International Airport
 - Karnataka Vidhana Soudha
 - Lalbagh Botanical Garden
 [myaboutfile](AboutMe.md)
+_ _ _
+# table for visiting places in the USA
+This is a table for the places to visit
+| Name of the city | Location to visit | Amount of time to spend |
+| --- | --- | --- |
+| Las Vegas | Grand Canyon | 1 Hour |
+| New York | Statue of Liberty | 2 Hours |
+| San Francisco | Golden Gate Bridge | 30 Min|
+| Houston | Houston's Musuem District| 20 Min|
+_ _ _
+ 
 
 
 
